@@ -23,5 +23,5 @@
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛍️ **Single Project**       | A fully functional e-commerce food delivery app with cart & payment system using **React** & **Node.js**.  | [Repository Client](https://github.com/Supakorn2539/MangaVerse/tree/main/Client) ,[Repository Server](https://github.com/Supakorn2539/MangaVerse/tree/main/Server)|
+| 🛍️ **Single Project**       | A fully functional with **React** & **Node.js**.  | [Repository Client](https://github.com/Supakorn2539/MangaVerse/tree/main/Client) ,[Repository Server](https://github.com/Supakorn2539/MangaVerse/tree/main/Server)|
 | 🛍️ **Group Project**             |  A fully functional with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Supakorn2539/TechHeaven_FrontEnd) , [Repository Server](https://github.com/Supakorn2539/TechHeaven_BackEnd)|
