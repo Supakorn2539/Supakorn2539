@@ -23,5 +23,5 @@
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛍️ **Single Project**       | A fully functional with **React** & **Node.js**.  | [Repository Client](https://github.com/Supakorn2539/MangaVerse/tree/main/Client) ,[Repository Server](https://github.com/Supakorn2539/MangaVerse/tree/main/Server)|
-| 🛍️ **Group Project**             |  A fully functional with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Supakorn2539/TechHeaven_FrontEnd) , [Repository Server](https://github.com/Supakorn2539/TechHeaven_BackEnd)|
+| 🛍️ **Single Project**       | A fully functional Manga-Website can read,add,delete,edit manga with **React** & **Node.js**.  | [Repository Client](https://github.com/Supakorn2539/MangaVerse/tree/main/Client) ,[Repository Server](https://github.com/Supakorn2539/MangaVerse/tree/main/Server)|
+| 🛍️ **Group Project**             |  A fully functional e-commerce order and shipping for SME mainlyuse  with  **React** & **Node.js**.                            | [Repository Client](https://github.com/Supakorn2539/TechHeaven_FrontEnd) , [Repository Server](https://github.com/Supakorn2539/TechHeaven_BackEnd)|
